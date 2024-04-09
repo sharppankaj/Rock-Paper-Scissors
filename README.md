@@ -35,12 +35,12 @@ You can see a live demo of the game [here](#).
 
 ## Screenshots
 
-![Game Screenshot](/screenshots/game.png)
+![Game Screenshot](/screenshots/game![RPS shot](https://github.com/sharppankaj/Rock-Paper-Scissors/assets/128520242/861d9500-aab9-43bc-a3b7-3704198484d4)
+.png)
 
 ## Author
 
-Pankaj Joshi
-pankajjoshi.info.np
+[Pankaj Joshi](pankajjoshi.info.np)
 
 
 
